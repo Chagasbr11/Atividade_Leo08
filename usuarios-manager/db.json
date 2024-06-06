@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": "b54c",
+      "nome": "Leonardo Isaias Das Chagas",
+      "login": "leonardosi",
+      "email": "leonardobr11@outlook.com.br",
+      "telefone": "(35) 991441107",
+      "cargo": "Militar Sargento",
+      "tipo": "Militar",
+      "ativo": 0
+    },
+    {
+      "id": "7ec1",
+      "nome": "Leandro Lucas",
+      "login": "f-rxfxel",
+      "email": "leandrolucas@univas.edu.br",
+      "telefone": "(35) 99899-9989",
+      "cargo": "",
+      "tipo": "aluno",
+      "ativo": 0
+    }
+  ],
+  "repositorios": [],
+  "seguidores": []
+}
